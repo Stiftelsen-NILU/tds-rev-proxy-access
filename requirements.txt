@@ -1,0 +1,6 @@
+jupyterlab
+xarray
+pydap
+netCDF4
+requests
+python-dotenv
